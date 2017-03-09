@@ -1,5 +1,5 @@
-author : Alexander Harris
-version : Feb 2017
+Alexander Harris
+Feb 2017
 Operating Systems, CS475
 
 Homework 3 : Reverse Polish Notation Calculator
